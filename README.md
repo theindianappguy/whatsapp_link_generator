@@ -2,7 +2,7 @@
 
 Quickly generate a personalized WhatsApp link with a predefined message and share it with your audience on your Social Networks!
 
-### By clicking on the link your customers will be able to send you a WhatsApp message without having to add your phone number to their contact list.
+By clicking on the link your customers will be able to send you a WhatsApp message without having to add your phone number to their contact list.
 
 ## Show Support
 * [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
